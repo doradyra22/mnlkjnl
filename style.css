@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    color: lightcyan;
+    background-color:#0000CD;
+}
+h1{
+    color: #00FF00;
+}
+footer{
+    background-color: #800080;
+    color: aqua;
+}
+nav{
+    margin: 20px;
+    padding: 20px;
+}
+nav a{
+    font-size: 20px;
+    text-decoration: darkolivegreen;
+    color: limegreen;
+    border:4 px solid tomato;
+    border-radius: 9px;
+    background-color: #800000;
+    margin: 10px;
+    padding: 10px;
+}
+.popular{
+    background-color: yellow ;
+    color: wheat;
+}
+.papa{
+    background-color: yellow ;
+    color: tomato;
+}
